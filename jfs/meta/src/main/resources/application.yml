@@ -1,0 +1,6 @@
+server:
+  port: 9090
+
+swagger:
+  config:
+    base-package: com.jerry.controller
